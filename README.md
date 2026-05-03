@@ -79,31 +79,8 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 </div>
 
----
-
-## 🕯️ Bonfires Lit — Education
-
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | Systems Analysis & Development | 🔄 In Progress |
-| ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
-| ◈ | Microsoft AI-900 Certification | ✅ Complete |
-| ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
-
----
-
-## 🗡️ Featured Projects
-
 <div align="center">
 
-[![portfolio-pessoal](https://github-readme-stats.vercel.app/api/pin/?username=Prata-del&repo=portfolio-pessoal&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/portfolio-pessoal)
-
-</div>
-
----
-
-<div align="center">
-
-*† Seek Paleblood to transcend the Hunt †*
+[![portfolio-pessoal](https://github-readme-stats.vercel.app/api/pin/?username=Prata-del&repo=portfolio-pessoal&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Prata-del/portfolio-pessoal)
 
 </div>
