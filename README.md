@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img align="right" width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/d73e8090-c9ab-481e-97cf-16bbc9daa354" />/>
+<img align="right" width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/49f1b6a6-05c1-4c23-9c11-00049c1d8e64" />
 
 ```
 ◈  Class     →  Backend / Full-Stack Apprentice
