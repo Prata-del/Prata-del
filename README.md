@@ -6,8 +6,9 @@
 
 ---
 
+<br/><br/>
 
-<img align="right"  width="200" height="200" src="https://github.com/user-attachments/assets/9a50b05c-434f-466f-9ab7-5199fa3f8af6" />
+<img align="right" width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/d73e8090-c9ab-481e-97cf-16bbc9daa354" />/>
 
 ```
 ◈  Class     →  Backend / Full-Stack Apprentice
@@ -15,6 +16,7 @@
 
 ```
 
+<br/><br/>
 
 ## Technologies
 
