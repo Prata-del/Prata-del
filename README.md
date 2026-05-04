@@ -6,6 +6,16 @@
 
 ---
 
+
+<img align="right"  width="200" height="200" src="https://github.com/user-attachments/assets/9a50b05c-434f-466f-9ab7-5199fa3f8af6" />
+
+```
+◈  Class     →  Backend / Full-Stack Apprentice
+◈  Origin    →  Brazil 🇧🇷
+
+```
+
+
 ## Technologies
 
 <div align="center">
